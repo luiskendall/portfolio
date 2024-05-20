@@ -6,7 +6,7 @@
   <span style="margin-left: 10px;">Email: <a href="mailto:luiske83@outlook.es">luiske83@outlook.es</a></span>
 </div>
 <div style="display: flex; align-items: center;">
-  <img src="/assets/img/linkedin-icon.png" alt="LinkedIn Icon" style="width: 50px; height: 50px; vertical-align: middle;">
+  <img src="assets/img/linkedin-icon.png" alt="LinkedIn Icon" style="width: 50px; height: 50px; vertical-align: middle;">
   <span style="margin-left: 10px;">LinkedIn: <a href="https://www.linkedin.com/in/luis-kendall-segura-paniagua/">linkedin.com/in/luis-kendall-segura-paniagua</a></span>
 </div>
 
