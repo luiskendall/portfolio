@@ -1,5 +1,5 @@
 # Computer Systems Engineer
-</br>
+<br/>
 ## Contact Me
 _____________________________________________________________________
 <div style="display: flex; align-items: center;">
@@ -10,8 +10,8 @@ _____________________________________________________________________
   <img src="assets/img/linkedin-icon.png" alt="LinkedIn Icon" style="width: 70px; height: 70px; vertical-align: middle;">
   <span style="margin-left: 10px;">LinkedIn: <a href="https://www.linkedin.com/in/luis-kendall-segura-paniagua/">linkedin.com/in/luis-kendall-segura-paniagua</a></span>
 </div>
-</br>
-</br>
+<br/>
+<br/>
 
 ## Summary
 _____________________________________________________________________
@@ -22,7 +22,7 @@ On the other hand, in my free time I like to play video games, play sports espec
 
 ## Work Experience
 _____________________________________________________________________
-A
+AA
 
 ## Education
 _____________________________________________________________________
