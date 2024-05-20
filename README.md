@@ -2,7 +2,7 @@
 ## Contact Me
 _____________________________________________________________________
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
+<div style="display: flex; flex-direction: column;">
   <div style="display: flex; align-items: center;">
     <img src="assets/img/mail-icon.png" alt="Mail Icon" style="width: 75px; height: 75px; vertical-align: middle;">
     <span style="margin-left: 10px;">Email: <a href="mailto:luiske83@outlook.es">luiske83@outlook.es</a></span>
@@ -12,6 +12,7 @@ _____________________________________________________________________
     <span style="margin-left: 10px;">LinkedIn: <a href="https://www.linkedin.com/in/luis-kendall-segura-paniagua/">linkedin.com/in/luis-kendall-segura-paniagua</a></span>
   </div>
 </div>
+
 
 
 
