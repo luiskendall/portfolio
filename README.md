@@ -2,19 +2,14 @@
 ## Contact Me
 _____________________________________________________________________
 
-<div style="display: flex; flex-direction: column;">
-  <div style="display: flex; align-items: center;">
-    <img src="assets/img/mail-icon.png" alt="Mail Icon" style="width: 75px; height: 75px; vertical-align: middle;">
-    <span style="margin-left: 10px;">Email: <a href="mailto:luiske83@outlook.es">luiske83@outlook.es</a></span>
-  </div>
-  <div style="display: flex; align-items: center;">
-    <img src="assets/img/linkedin-icon.png" alt="LinkedIn Icon" style="width: 60px; height: 60px; vertical-align: middle;">
-    <span style="margin-left: 10px;">LinkedIn: <a href="https://www.linkedin.com/in/luis-kendall-segura-paniagua/">linkedin.com/in/luis-kendall-segura-paniagua</a></span>
-  </div>
+<div style="display: flex; align-items: center; margin-right: 20px;">
+  <img src="assets/img/mail-icon.png" alt="Mail Icon" style="width: 75px; height: 75px; vertical-align: middle;">
+  <span style="margin-left: 10px;">Email: <a href="mailto:luiske83@outlook.es">luiske83@outlook.es</a></span>
 </div>
-
-
-
+<div style="display: flex; align-items: center;">
+  <img src="assets/img/linkedin-icon.png" alt="LinkedIn Icon" style="width: 60px; height: 60px; vertical-align: middle;">
+  <span style="margin-left: 10px;">LinkedIn: <a href="https://www.linkedin.com/in/luis-kendall-segura-paniagua/">linkedin.com/in/luis-kendall-segura-paniagua</a></span>
+</div>
 
 ## Summary
 _____________________________________________________________________
