@@ -24,12 +24,12 @@ On the other hand, in my free time I like to play video games, play sports espec
 
 ## Work Experience
 _____________________________________________________________________
-**Software Development, University Community Work** <span style="float: right;"> (*Mar 2024 - Apr 2024*)</span> <br/>
-***Municipalidad de Alajuela, Alajuela*** 
+**Software Development, University Community Work** <br/> *Municipalidad de Alajuela, Alajuela*  |  (*Mar 2024 - Apr 2024*) <br /> 
+
 <br/>
 
 **IT Internship** <span style="float: right;"> (*Oct 2019 - Dec 2019*)</span> <br/>
-***UPS, Alajuela*** 
+*UPS, Alajuela*
 <br/>
 
 
