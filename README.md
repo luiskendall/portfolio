@@ -1,7 +1,7 @@
 # Computer Systems Engineer
 
-**Contact Me**
-
+#### Contact Me
+_____________________________________________________________________
 <div style="display: flex; align-items: center;">
   <img src="assets/img/mail-icon.png" alt="Mail Icon" style="width: 70px; height: 70px; vertical-align: middle;">
   <span style="margin-left: 10px;"><strong>Email:<strong> <a href="mailto:luiske83@outlook.es">luiske83@outlook.es</a></span>
