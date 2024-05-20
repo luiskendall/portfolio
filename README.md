@@ -1,15 +1,15 @@
 # Computer Systems Engineer
 
 ### Contact Me
-_____________________________________________________________________
 <div style="display: flex; align-items: center;">
   <img src="assets/img/mail-icon.png" alt="Mail Icon" style="width: 70px; height: 70px; vertical-align: middle;">
   <span style="margin-left: 10px;"><strong>Email:<strong> <a href="mailto:luiske83@outlook.es">luiske83@outlook.es</a></span>
 </div>
 <div style="display: flex; align-items: center;">
   <img src="assets/img/linkedin-icon.png" alt="LinkedIn Icon" style="width: 70px; height: 70px; vertical-align: middle;">
-  <span style="margin-left: 10px;"><strong>LinkedIn:<strong><a href="https://www.linkedin.com/in/luis-kendall-segura-paniagua/">linkedin.com/in/luis-kendall-segura-paniagua</a></span>
+  <span style="margin-left: 10px;"><strong>LinkedIn:<strong> <a href="https://www.linkedin.com/in/luis-kendall-segura-paniagua/">linkedin.com/in/luis-kendall-segura-paniagua</a></span>
 </div>
+
 <br/>
 
 ## Summary
@@ -21,11 +21,11 @@ On the other hand, in my free time I like to play video games, play sports espec
 
 ## Work Experience
 _____________________________________________________________________
-**Software Development, University Community Work** <span style="float: right;"> (*Mar 2024 - Apr 2024*)</span>
+**Software Development, University Community Work** 
 *Municipalidad de Alajuela, Alajuela* 
 <br/>
 
-**IT Internship** <span style="float: right;"> (*Oct 2019 - Dec 2019*)</span>
+**IT Internship** 
 *UPS, Alajuela* 
 
 
