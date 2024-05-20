@@ -10,25 +10,43 @@
   <span style="margin-left: 10px;"><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/luis-kendall-segura-paniagua/">linkedin.com/in/luis-kendall-segura-paniagua</a></span>
 </div>
 
+
+<br/>
+
 ## About me
 _____________________________________________________________________
 I am a young professional passionate about technology, always looking for new opportunities to learn and grow. I have experience in different IT areas, such as programming, databases, technical support, etc. I stand out for my ability to solve problems in a critical and creative way.
 
 On the other hand, in my free time I like to play video games, play sports especially Basketball, learn new skills, and drink coffee.
+
+
 <br/>
 
 ## Work Experience
 _____________________________________________________________________
 **Software Development, University Community Work** <span style="float: right;"> (*Mar 2024 - Apr 2024*)</span> <br/>
-*Municipalidad de Alajuela, Alajuela* 
+***Municipalidad de Alajuela, Alajuela*** 
 <br/>
 
 **IT Internship** <span style="float: right;"> (*Oct 2019 - Dec 2019*)</span> <br/>
-*UPS, Alajuela* 
+***UPS, Alajuela*** 
+<br/>
+
+
 <br/>
 
 ## Education
 _____________________________________________________________________
-**Universidad Fidélitas** <span style="float: right;"> (*Jan 2020 - Dec 2023*)</span> <br/>
-*Bachelor's Degree, Computer Systems Engineering* 
+**Bachelor's Degree, Computer Systems Engineering** <span style="float: right;"> (*Jan 2020 - Dec 2023*)</span> <br/>
+*Universidad Fidélitas, Heredia* 
 <br/>
+
+**Medium Technician, Software Development Computing** <span style="float: right;"> (*Jan 2017 - Dec 2019*)</span> <br/>
+*Colegio Técnico Profesional de Carrizal, Alajuela* 
+<br/>
+
+
+<br/>
+
+## Certifications & Courses
+_____________________________________________________________________
