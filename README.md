@@ -12,7 +12,10 @@
 
 
 ## Summary
-A
+I am a young professional passionate about technology, always looking for new opportunities to learn and grow. I have experience in different IT areas, such as programming, databases, technical support, etc. I stand out for my ability to solve problems in a critical and creative way.
+
+On the other hand, in my free time I like to play video games, play sports especially Basketball, learn new skills, and drink coffee.
+
 
 ## Work Experience
 A
