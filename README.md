@@ -62,20 +62,29 @@ _____________________________________________________________________
 _____________________________________________________________________
 
 ### Programming Languages
-- Python, JS
+- Python
 - JavaScript
+- C
+- C#
+- C++
+- PHP
+- Powershell
 - Java
-- SQL
 
-### Web Development
-- HTML & CSS
-- React
-- Node.js
+
+### Databases
+- Microsoft SQL Server
+- MySQL
+- MongoDB
+- Oracle
+- Firebase
 
 ### Tools & Technologies
 - Git & GitHub
-- Docker
-- Jenkins
+- Agile
+- SCRUM
+- Lean Six Sigma
+- ITIL
 
 ### Soft Skills
 - Critical Thinking
@@ -88,25 +97,11 @@ _____________________________________________________________________
 
 ## Certifications & Courses
 _____________________________________________________________________
-<ul>
-  <li>
-    <strong>Six Sigma Yellow Belt (SSYB)</strong> <em>(2024)</em>
-    <span style="float: right;"><img src="assets/img/sigma-icon.png" alt="Six Sigma Icon" style="width: 40px; height: 40px; vertical-align: middle;"></span>
-  </li>
-  <li>
-    <strong>Scrum Fundamentals Certified (SFC)</strong> <em>(2020)</em>
-    <span style="float: right;"><img src="assets/img/scrum-icon.png" alt="Scrum Icon" style="width: 40px; height: 40px; vertical-align: middle;"></span>
-  </li>
-  <li>
-    <strong>PCAP: Programming Essentials in Python</strong> <em>(2019)</em>
-    <span style="float: right;"><img src="assets/img/python-icon.png" alt="Python Icon" style="width: 40px; height: 40px; vertical-align: middle;"></span>
-  </li>
-  <li>
-    <strong>Business Soft Skills Development</strong> <em>(2019)</em>
-  </li>
-</ul>
 
-**PCAP** | PCAP: Programming Essentials in Python  | ![AZ-900](/assets/img/python-icon.png)
+**Six Sigma Yellow Belt (SSYB)** , *(2024)*  | ![SSYB](/assets/img/sigma-icon.png)
+**Scrum Fundamentals Certified (SFC)**, *(2020)*  | ![SFC](/assets/img/scrum-icon.png)
+**PCAP: Programming Essentials in Python**, *(2019)*  | ![PCAP](/assets/img/python-icon.png)
+**Business Soft Skills Development**, *(2019)* 
 
 
 <br/>
