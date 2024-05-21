@@ -66,50 +66,16 @@ _____________________________________________________________________
 ## Skills
 _____________________________________________________________________
 
-### Programming Languages
-- Python
-- JavaScript
-- C
-- C#
-- C++
-- PHP
-- Powershell
-- Java
-
-### Frameworks,Platforms & Libraries
-- .NET
-- HTML5
-- Bootstrap
-- CSS
-
-### Databases
-- Microsoft SQL Server
-- MySQL
-- MongoDB
-- Oracle
-- Firebase
-
-### Tools & Technologies
-- Git & GitHub
-- Bitbucket
-- Agile
-- SCRUM
-- Lean Six Sigma
-- JIRA
-- ITIL
-
-### Languages
-- **English:** B2+ (Professional working proficiency)
-- **Spanish:** Native
-
-### Soft Skills
-- Critical Thinking
-- Problem-Solving
-- Team Collaboration
-- Leadership
-- Effective Communication
-- Adaptability
-
+| Programming Languages  | Frameworks, Platforms & Libraries | Databases           | Tools & Technologies | Languages                    | Soft Skills               |
+|------------------------|----------------------------------|---------------------|----------------------|------------------------------|---------------------------|
+| Python                 | .NET                             | Microsoft SQL Server| Git & GitHub         | English: B2+                 | Critical Thinking         |
+| JavaScript             | HTML5                            | MySQL               | Bitbucket            | Spanish: Native              | Problem-Solving           |
+| C                      | Bootstrap                        | MongoDB             | Agile                |                              | Team Collaboration        |
+| C#                     | CSS                              | Oracle              | SCRUM                |                              | Leadership                |
+| C++                    |                                  | Firebase            | Lean Six Sigma       |                              | Effective Communication   |
+| PHP                    |                                  |                     | JIRA                 |                              | Adaptability              |
+| Powershell             |                                  |                     | ITIL                 |                              |                           |
+| Java                   |                                  |                     |                      |                              |                           |
 
 
 <br/>
@@ -117,10 +83,10 @@ _____________________________________________________________________
 ## Certifications & Courses
 _____________________________________________________________________
 
-**Six Sigma Yellow Belt (SSYB)** , *(2024)*<br/>          | ![SSYB](/assets/img/sigma-icon-r.png)
-**Scrum Fundamentals Certified (SFC)**, *(2020)*<br/>     | ![SFC](/assets/img/scrum-icon-r.png)
-**PCAP: Programming Essentials in Python**, *(2019)*<br/> | ![PCAP](/assets/img/python-icon-r.png)
-**Business Soft Skills Development**, *(2019)*<br/> 
+**Six Sigma Yellow Belt (SSYB)** , *(2024)*         | ![SSYB](/assets/img/sigma-icon-r.png)
+**Scrum Fundamentals Certified (SFC)**, *(2020)*    | ![SFC](/assets/img/scrum-icon-r.png)
+**PCAP: Programming Essentials in Python**, *(2019)*| ![PCAP](/assets/img/python-icon-r.png)
+**Business Soft Skills Development**, *(2019)*
 
 
 <br/>
