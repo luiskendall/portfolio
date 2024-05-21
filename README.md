@@ -32,13 +32,12 @@ _____________________________________________________________________
 
 - **Process automation:** Development of automated solutions in Excel using Visual Basic for Applications (VBA) to execute repetitive tasks, directly improving the efficiency of processes and reducing work times.
 - **Power BI reports generation:** Generation of dashboards in Power BI through the solutions created in Excel, visualizing a great amount of information in graphs and cards, allowing a more strategic decision making.  
-
+<br/>
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div><strong>IT Internship</strong></div>
   <div><em>(Oct 2019 - Dec 2019)</em></div>
 </div>
 <div style="margin-left: 10px;"><em>UPS, Alajuela</em></div>
-<br/>
 
 - **Development of automated solutions:** Development and design of advanced macros in programs such as Excel and Access using Visual Basic, to optimize internal processes and increase operational efficiency.
 - **Technical Support:** I provided technical assistance to end users, solving doubts and problems related to various computer applications, from computer hardware to office software such as Microsoft Office applications.
@@ -100,6 +99,10 @@ _____________________________________________________________________
 - JIRA
 - ITIL
 
+### Languages
+- **English:** B2+ (Professional working proficiency)
+- **Spanish:** Native
+
 ### Soft Skills
 - Critical Thinking
 - Problem-Solving
@@ -107,6 +110,7 @@ _____________________________________________________________________
 - Leadership
 - Effective Communication
 - Adaptability
+
 
 
 <br/>
