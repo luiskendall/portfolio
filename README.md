@@ -27,14 +27,14 @@ _____________________________________________________________________
   <div><strong>Software Development, University Community Work</strong></div>
   <div><em>(Mar 2024 - Apr 2024)</em></div>
 </div>
-<div style="margin-left: 20px;"><em>Municipalidad de Alajuela, Alajuela</em></div>
+<div style="margin-left: 10px;"><em>Municipalidad de Alajuela, Alajuela</em></div>
 <br/>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div><strong>IT Internship</strong></div>
   <div><em>(Oct 2019 - Dec 2019)</em></div>
 </div>
-<div style="margin-left: 20px;"><em>UPS, Alajuela</em></div>
+<div style="margin-left: 10px;"><em>UPS, Alajuela</em></div>
 <br/>
 
 ## Education
@@ -43,14 +43,14 @@ _____________________________________________________________________
   <div><strong>Bachelor's Degree, Computer Systems Engineering</strong></div>
   <div><em>(Jan 2020 - Dec 2023)</em></div>
 </div>
-<div style="margin-left: 20px;"><em>Universidad Fidélitas, Heredia</em></div>
+<div style="margin-left: 10px;"><em>Universidad Fidélitas, Heredia</em></div>
 <br/>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div><strong>Medium Technician, Software Development Computing</strong></div>
   <div><em>(Jan 2017 - Dec 2019)</em></div>
 </div>
-<div style="margin-left: 20px;"><em>Colegio Técnico Profesional de Carrizal, Alajuela</em></div>
+<div style="margin-left: 10px;"><em>Colegio Técnico Profesional de Carrizal, Alajuela</em></div>
 <br/>
 
 
@@ -59,12 +59,58 @@ _____________________________________________________________________
 ## Skills
 _____________________________________________________________________
 
+### Programming Languages
+- Python, JS
+- JavaScript
+- Java
+- SQL
+
+### Web Development
+- HTML & CSS
+- React
+- Node.js
+
+### Tools & Technologies
+- Git & GitHub
+- Docker
+- Jenkins
+
+### Soft Skills
+- Critical Thinking
+- Problem-Solving
+- Team Collaboration
+- Effective Communication
+
+
 <br/>
 
 ## Certifications & Courses
 _____________________________________________________________________
+<ul>
+  <li>
+    <strong>Six Sigma Yellow Belt (SSYB)</strong> <em>(2024)</em>
+    <span style="float: right;"><img src="assets/img/sigma-icon.png" alt="Six Sigma Icon" style="width: 40px; height: 40px; vertical-align: middle;"></span>
+  </li>
+  <li>
+    <strong>Scrum Fundamentals Certified (SFC)</strong> <em>(2020)</em>
+    <span style="float: right;"><img src="assets/img/scrum-icon.png" alt="Scrum Icon" style="width: 40px; height: 40px; vertical-align: middle;"></span>
+  </li>
+  <li>
+    <strong>PCAP: Programming Essentials in Python</strong> <em>(2019)</em>
+    <span style="float: right;"><img src="assets/img/python-icon.png" alt="Python Icon" style="width: 40px; height: 40px; vertical-align: middle;"></span>
+  </li>
+  <li>
+    <strong>Business Soft Skills Development</strong> <em>(2019)</em>
+  </li>
+</ul>
+
 
 <br/>
 
 ## Awards & Extracurricular Activities
 _____________________________________________________________________
+
+### Second place - EXPO Ingeniería 2018
+*Colegio Técnico Profesional de Carrizal, Alajuela* <br/>
+Second place at the EXPO Ingeniería 2018 fair at Colegio Técnico Profesional de Carrizal,
+developing a prototype for a mobile application in Android Studio
