@@ -77,75 +77,60 @@ _____________________________________________________________________
 ## Skills
 _____________________________________________________________________
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+**Programming Languages:**
+- Python
+- JavaScript
+- C
+- C#
+- C++
+- PHP
+- Powershell
+- Java
 
-  <div style="flex: 1; min-width: 200px;">
-    - **Programming Languages:**
-      - Python
-      - JavaScript
-      - C
-      - C#
-      - C++
-      - PHP
-      - Powershell
-      - Java
-  </div>
+**Frameworks, Platforms & Libraries:**
+- .NET
+- HTML5
+- Bootstrap
+- CSS
 
-  <div style="flex: 1; min-width: 200px;">
-    - **Frameworks, Platforms & Libraries:**
-      - .NET
-      - HTML5
-      - Bootstrap
-      - CSS
-  </div>
+**Databases:**
+- Microsoft SQL Server
+- MySQL
+- MongoDB
+- Oracle
+- Firebase
 
-  <div style="flex: 1; min-width: 200px;">
-    - **Databases:**
-      - Microsoft SQL Server
-      - MySQL
-      - MongoDB
-      - Oracle
-      - Firebase
-  </div>
+**Tools & Technologies:**
+- Git & GitHub
+- Bitbucket
+- Agile
+- SCRUM
+- Lean Six Sigma
+- JIRA
+- ITIL
 
-  <div style="flex: 1; min-width: 200px;">
-    - **Tools & Technologies:**
-      - Git & GitHub
-      - Bitbucket
-      - Agile
-      - SCRUM
-      - Lean Six Sigma
-      - JIRA
-      - ITIL
-  </div>
+**Languages:**
+- **English:** B2+ (Professional working proficiency)
+- **Spanish:** Native
 
-  <div style="flex: 1; min-width: 200px;">
-    - **Languages:**
-      - **English:** B2+ (Professional working proficiency)
-      - **Spanish:** Native
-  </div>
+**Soft Skills:**
+- Critical Thinking
+- Problem-Solving
+- Team Collaboration
+- Leadership
+- Effective Communication
+- Adaptability
 
-  <div style="flex: 1; min-width: 200px;">
-    - **Soft Skills:**
-      - Critical Thinking
-      - Problem-Solving
-      - Team Collaboration
-      - Leadership
-      - Effective Communication
-      - Adaptability
-  </div>
-
-</div>
 
 <br/>
 
 ## Certifications & Courses
 _____________________________________________________________________
 
- *6sigmastudy* | **Six Sigma Yellow Belt (SSYB)**-*(2024)*          | ![SSYB](/assets/img/sigma-icon-r.png) <br/>
-*SCRUMstudy* | **Scrum Fundamentals Certified (SFC)**-*(2020)*     | ![SFC](/assets/img/scrum-icon-r.png) <br/>
-*Python Institute* | **PCAP: Programming Essentials in Python**-*(2019)* | ![PCAP](/assets/img/python-icon-r.png) <br/>
-*UNA* | **Business Soft Skills Development**-*(2019)* <br/>
+*6sigmastudy* | **Six Sigma Yellow Belt (SSYB)** <br/> *(2024)*                | ![SSYB](/assets/img/sigma-icon-r.png) <br/>
+*SCRUMstudy* | **Scrum Fundamentals Certified (SFC)** <br/> *(2020)*           | ![SFC](/assets/img/scrum-icon-r.png) <br/>
+*Python Institute* | **PCAP: Programming Essentials in Python** <br/> *(2019)* | ![PCAP](/assets/img/python-icon-r.png) <br/>
+*UNA* | **Business Soft Skills Development** <br/> *(2019)* <br/>
 
 
 <br/>
