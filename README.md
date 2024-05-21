@@ -23,25 +23,34 @@ On the other hand, in my free time I like to play video games, play sports espec
 
 ## Work Experience
 _____________________________________________________________________
-**Software Development, University Community Work** <span style="float: right;">(*Mar 2024 - Apr 2024*)</span> <br /> 
-*Municipalidad de Alajuela, Alajuela*
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div><strong>Software Development, University Community Work</strong></div>
+  <div><em>(Mar 2024 - Apr 2024)</em></div>
+</div>
+<div style="margin-left: 20px;"><em>Municipalidad de Alajuela, Alajuela</em></div>
 <br/>
 
-**IT Internship** <span style="float: right;"> (*Oct 2019 - Dec 2019*)</span> <br/>
-*UPS, Alajuela*
-<br/>
-
-
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div><strong>IT Internship</strong></div>
+  <div><em>(Oct 2019 - Dec 2019)</em></div>
+</div>
+<div style="margin-left: 20px;"><em>UPS, Alajuela</em></div>
 <br/>
 
 ## Education
 _____________________________________________________________________
-**Bachelor's Degree, Computer Systems Engineering** <span style="float: right;"> (*Jan 2020 - Dec 2023*)</span> <br/>
-*Universidad Fidélitas, Heredia* 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div><strong>Bachelor's Degree, Computer Systems Engineering</strong></div>
+  <div><em>(Jan 2020 - Dec 2023)</em></div>
+</div>
+<div style="margin-left: 20px;"><em>Universidad Fidélitas, Heredia</em></div>
 <br/>
 
-**Medium Technician, Software Development Computing** <span style="float: right;"> (*Jan 2017 - Dec 2019*)</span> <br/>
-*Colegio Técnico Profesional de Carrizal, Alajuela* 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div><strong>Medium Technician, Software Development Computing</strong></div>
+  <div><em>(Jan 2017 - Dec 2019)</em></div>
+</div>
+<div style="margin-left: 20px;"><em>Colegio Técnico Profesional de Carrizal, Alajuela</em></div>
 <br/>
 
 
