@@ -69,7 +69,6 @@ _____________________________________________________________________
   <div><em>(Jan 2017 - Dec 2019)</em></div>
 </div>
 <div style="margin-left: 10px;"><em>Colegio Técnico Profesional de Carrizal, Alajuela</em></div>
-<br/>
 
 
 <br/>
