@@ -85,10 +85,10 @@ _____________________________________________________________________
 ## Certifications & Courses
 _____________________________________________________________________
 
- ***6sigmastudy*** | **Six Sigma Yellow Belt (SSYB)** , *(2024)*          | ![SSYB](/assets/img/sigma-icon-r.png) <br/>
-***SCRUMstudy*** | **Scrum Fundamentals Certified (SFC)**, *(2020)*     | ![SFC](/assets/img/scrum-icon-r.png) <br/>
-***Python Institute*** | **PCAP: Programming Essentials in Python**, *(2019)* | ![PCAP](/assets/img/python-icon-r.png) <br/>
-***UNA*** | **Business Soft Skills Development**, *(2019)* <br/>
+ ***6sigmastudy*** | **Six Sigma Yellow Belt (SSYB)**-*(2024)*          | ![SSYB](/assets/img/sigma-icon-r.png) <br/>
+***SCRUMstudy*** | **Scrum Fundamentals Certified (SFC)**-*(2020)*     | ![SFC](/assets/img/scrum-icon-r.png) <br/>
+***Python Institute*** | **PCAP: Programming Essentials in Python**-*(2019)* | ![PCAP](/assets/img/python-icon-r.png) <br/>
+***UNA*** | **Business Soft Skills Development**-*(2019)* <br/>
 
 
 <br/>
