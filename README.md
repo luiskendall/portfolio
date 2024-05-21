@@ -68,8 +68,8 @@ _____________________________________________________________________
 ## Skills
 _____________________________________________________________________
 
-| Programming Languages  | Frameworks, Platforms & Libraries | Databases           | Tools & Technologies | Languages                    | Soft Skills               |
-|:-----------------------|:---------------------------------|:---------------------|:----------------------|:-----------------------------|:--------------------------|
+| Programming Languages | Frameworks, Platforms & Libraries | Databases           | Tools & Technologies | Languages                    | Soft Skills               |
+|------------------------|----------------------------------|---------------------|----------------------|------------------------------|---------------------------|
 | Python                 | .NET                             | Microsoft SQL Server| Git & GitHub         | English: B2+                 | Critical Thinking         |
 | JavaScript             | HTML5                            | MySQL               | Bitbucket            | Spanish: Native              | Problem-Solving           |
 | C                      | Bootstrap                        | MongoDB             | Agile                |                              | Team Collaboration        |
@@ -78,15 +78,16 @@ _____________________________________________________________________
 | PHP                    |                                  |                     | JIRA                 |                              | Adaptability              |
 | Powershell             |                                  |                     | ITIL                 |                              |                           |
 | Java                   |                                  |                     |                      |                              |                           |
+
 <br/>
 
 ## Certifications & Courses
 _____________________________________________________________________
 
-**AZ-900** | **Six Sigma Yellow Belt (SSYB)** , *(2024)*          | ![SSYB](/assets/img/sigma-icon-r.png) <br/>
-**AZ-900** | **Scrum Fundamentals Certified (SFC)**, *(2020)*     | ![SFC](/assets/img/scrum-icon-r.png) <br/>
-**AZ-900** | **PCAP: Programming Essentials in Python**, *(2019)* | ![PCAP](/assets/img/python-icon-r.png) <br/>
-**AZ-900** | **Business Soft Skills Development**, *(2019)* <br/>
+**Six Sigma Yellow Belt (SSYB)** , *(2024)*          | ![SSYB](/assets/img/sigma-icon-r.png) <br/>
+**Scrum Fundamentals Certified (SFC)**, *(2020)*     | ![SFC](/assets/img/scrum-icon-r.png) <br/>
+**PCAP: Programming Essentials in Python**, *(2019)* | ![PCAP](/assets/img/python-icon-r.png) <br/>
+**Business Soft Skills Development**, *(2019)* <br/>
 
 
 <br/>
