@@ -35,6 +35,8 @@ _____________________________________________________________________
   <div><em>(Oct 2019 - Dec 2019)</em></div>
 </div>
 <div style="margin-left: 10px;"><em>UPS, Alajuela</em></div>
+
+
 <br/>
 
 ## Education
@@ -104,6 +106,8 @@ _____________________________________________________________________
   </li>
 </ul>
 
+**PCAP** | PCAP: Programming Essentials in Python  | ![AZ-900](/assets/img/python-icon.png)
+
 
 <br/>
 
@@ -112,5 +116,6 @@ _____________________________________________________________________
 
 ### Second place - EXPO Ingeniería 2018
 *Colegio Técnico Profesional de Carrizal, Alajuela* <br/>
+
 Second place at the EXPO Ingeniería 2018 fair at Colegio Técnico Profesional de Carrizal,
 developing a prototype for a mobile application in Android Studio
