@@ -71,6 +71,11 @@ _____________________________________________________________________
 - Powershell
 - Java
 
+### Frameworks,Platforms & Libraries
+- .NET
+- HTML5
+- Bootstrap
+- CSS
 
 ### Databases
 - Microsoft SQL Server
@@ -81,9 +86,11 @@ _____________________________________________________________________
 
 ### Tools & Technologies
 - Git & GitHub
+- Bitbucket
 - Agile
 - SCRUM
 - Lean Six Sigma
+- JIRA
 - ITIL
 
 ### Soft Skills
