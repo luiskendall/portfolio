@@ -10,7 +10,6 @@
   <span style="margin-left: 10px;"><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/luis-kendall-segura-paniagua/">linkedin.com/in/luis-kendall-segura-paniagua</a></span>
 </div>
 
-
 <br/>
 
 ## About me
@@ -24,8 +23,8 @@ On the other hand, in my free time I like to play video games, play sports espec
 
 ## Work Experience
 _____________________________________________________________________
-**Software Development, University Community Work** <br/> *Municipalidad de Alajuela, Alajuela*  |  (*Mar 2024 - Apr 2024*) <br /> 
-
+**Software Development, University Community Work** <span style="float: right;">(*Mar 2024 - Apr 2024*)</span> <br /> 
+*Municipalidad de Alajuela, Alajuela*
 <br/>
 
 **IT Internship** <span style="float: right;"> (*Oct 2019 - Dec 2019*)</span> <br/>
@@ -48,5 +47,15 @@ _____________________________________________________________________
 
 <br/>
 
+## Skills
+_____________________________________________________________________
+
+<br/>
+
 ## Certifications & Courses
+_____________________________________________________________________
+
+<br/>
+
+## Awards & Extracurricular Activities
 _____________________________________________________________________
