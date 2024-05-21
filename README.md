@@ -21,6 +21,14 @@ On the other hand, in my free time I like to play video games, play sports espec
 
 <br/>
 
+## Projects
+_____________________________________________________________________
+
+💻 [GitHub Repositories](https://github.com/luiskendall)
+
+
+<br/>
+
 ## Work Experience
 _____________________________________________________________________
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -69,26 +77,75 @@ _____________________________________________________________________
 ## Skills
 _____________________________________________________________________
 
-| Programming Languages | Frameworks, Platforms & Libraries | Databases           | Tools & Technologies | Languages                    | Soft Skills               |
-|------------------------|----------------------------------|---------------------|----------------------|------------------------------|---------------------------|
-| Python                 | .NET                             | Microsoft SQL Server| Git & GitHub         | English: B2+                 | Critical Thinking         |
-| JavaScript             | HTML5                            | MySQL               | Bitbucket            | Spanish: Native              | Problem-Solving           |
-| C                      | Bootstrap                        | MongoDB             | Agile                |                              | Team Collaboration        |
-| C#                     | CSS                              | Oracle              | SCRUM                |                              | Leadership                |
-| C++                    |                                  | Firebase            | Lean Six Sigma       |                              | Effective Communication   |
-| PHP                    |                                  |                     | JIRA                 |                              | Adaptability              |
-| Powershell             |                                  |                     | ITIL                 |                              |                           |
-| Java                   |                                  |                     |                      |                              |                           |
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+
+  <div style="flex: 1; min-width: 200px;">
+    - **Programming Languages:**
+      - Python
+      - JavaScript
+      - C
+      - C#
+      - C++
+      - PHP
+      - Powershell
+      - Java
+  </div>
+
+  <div style="flex: 1; min-width: 200px;">
+    - **Frameworks, Platforms & Libraries:**
+      - .NET
+      - HTML5
+      - Bootstrap
+      - CSS
+  </div>
+
+  <div style="flex: 1; min-width: 200px;">
+    - **Databases:**
+      - Microsoft SQL Server
+      - MySQL
+      - MongoDB
+      - Oracle
+      - Firebase
+  </div>
+
+  <div style="flex: 1; min-width: 200px;">
+    - **Tools & Technologies:**
+      - Git & GitHub
+      - Bitbucket
+      - Agile
+      - SCRUM
+      - Lean Six Sigma
+      - JIRA
+      - ITIL
+  </div>
+
+  <div style="flex: 1; min-width: 200px;">
+    - **Languages:**
+      - **English:** B2+ (Professional working proficiency)
+      - **Spanish:** Native
+  </div>
+
+  <div style="flex: 1; min-width: 200px;">
+    - **Soft Skills:**
+      - Critical Thinking
+      - Problem-Solving
+      - Team Collaboration
+      - Leadership
+      - Effective Communication
+      - Adaptability
+  </div>
+
+</div>
 
 <br/>
 
 ## Certifications & Courses
 _____________________________________________________________________
 
- ***6sigmastudy*** | **Six Sigma Yellow Belt (SSYB)**-*(2024)*          | ![SSYB](/assets/img/sigma-icon-r.png) <br/>
-***SCRUMstudy*** | **Scrum Fundamentals Certified (SFC)**-*(2020)*     | ![SFC](/assets/img/scrum-icon-r.png) <br/>
-***Python Institute*** | **PCAP: Programming Essentials in Python**-*(2019)* | ![PCAP](/assets/img/python-icon-r.png) <br/>
-***UNA*** | **Business Soft Skills Development**-*(2019)* <br/>
+ *6sigmastudy* | **Six Sigma Yellow Belt (SSYB)**-*(2024)*          | ![SSYB](/assets/img/sigma-icon-r.png) <br/>
+*SCRUMstudy* | **Scrum Fundamentals Certified (SFC)**-*(2020)*     | ![SFC](/assets/img/scrum-icon-r.png) <br/>
+*Python Institute* | **PCAP: Programming Essentials in Python**-*(2019)* | ![PCAP](/assets/img/python-icon-r.png) <br/>
+*UNA* | **Business Soft Skills Development**-*(2019)* <br/>
 
 
 <br/>
