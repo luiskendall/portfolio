@@ -28,7 +28,6 @@ _____________________________________________________________________
   <div><em>(Mar 2024 - Apr 2024)</em></div>
 </div>
 <div style="margin-left: 10px;"><em>Municipalidad de Alajuela, Alajuela</em></div>
-<br/>
 
 - **Process automation:** Development of automated solutions in Excel using Visual Basic for Applications (VBA) to execute repetitive tasks, directly improving the efficiency of processes and reducing work times.
 - **Power BI reports generation:** Generation of dashboards in Power BI through the solutions created in Excel, visualizing a great amount of information in graphs and cards, allowing a more strategic decision making.  
@@ -118,9 +117,9 @@ _____________________________________________________________________
 ## Certifications & Courses
 _____________________________________________________________________
 
-**Six Sigma Yellow Belt (SSYB)** , *(2024)*<br/> | ![SSYB](/assets/img/sigma-icon.png)
-**Scrum Fundamentals Certified (SFC)**, *(2020)*<br/>  | ![SFC](/assets/img/scrum-icon.png)
-**PCAP: Programming Essentials in Python**, *(2019)*<br/>  | ![PCAP](/assets/img/python-icon.png)
+**Six Sigma Yellow Belt (SSYB)** , *(2024)*<br/>          | ![SSYB](/assets/img/sigma-icon-r.png)
+**Scrum Fundamentals Certified (SFC)**, *(2020)*<br/>     | ![SFC](/assets/img/scrum-icon-r.png)
+**PCAP: Programming Essentials in Python**, *(2019)*<br/> | ![PCAP](/assets/img/python-icon-r.png)
 **Business Soft Skills Development**, *(2019)*<br/> 
 
 
