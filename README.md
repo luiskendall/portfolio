@@ -33,6 +33,7 @@ _____________________________________________________________________
 - **Process automation:** Development of automated solutions in Excel using Visual Basic for Applications (VBA) to execute repetitive tasks, directly improving the efficiency of processes and reducing work times.
 - **Power BI reports generation:** Generation of dashboards in Power BI through the solutions created in Excel, visualizing a great amount of information in graphs and cards, allowing a more strategic decision making.  
 <br/>
+
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div><strong>IT Internship</strong></div>
   <div><em>(Oct 2019 - Dec 2019)</em></div>
@@ -84,10 +85,10 @@ _____________________________________________________________________
 ## Certifications & Courses
 _____________________________________________________________________
 
-(blank) | **Six Sigma Yellow Belt (SSYB)** , *(2024)*          | ![SSYB](/assets/img/sigma-icon-r.png) <br/>
-(blank) | **Scrum Fundamentals Certified (SFC)**, *(2020)*     | ![SFC](/assets/img/scrum-icon-r.png) <br/>
-(blank) | **PCAP: Programming Essentials in Python**, *(2019)* | ![PCAP](/assets/img/python-icon-r.png) <br/>
-(blank) | **Business Soft Skills Development**, *(2019)* <br/>
+ ***6sigmastudy*** | **Six Sigma Yellow Belt (SSYB)** , *(2024)*          | ![SSYB](/assets/img/sigma-icon-r.png) <br/>
+***SCRUMstudy*** | **Scrum Fundamentals Certified (SFC)**, *(2020)*     | ![SFC](/assets/img/scrum-icon-r.png) <br/>
+***Python Institute*** | **PCAP: Programming Essentials in Python**, *(2019)* | ![PCAP](/assets/img/python-icon-r.png) <br/>
+***UNA*** | **Business Soft Skills Development**, *(2019)* <br/>
 
 
 <br/>
