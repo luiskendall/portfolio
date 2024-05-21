@@ -28,7 +28,7 @@ _____________________________________________________________________
   <div><em>(Mar 2024 - Apr 2024)</em></div>
 </div>
 <div style="margin-left: 10px;"><em>Municipalidad de Alajuela, Alajuela</em></div>
-
+<br/>
 - **Process automation:** Development of automated solutions in Excel using Visual Basic for Applications (VBA) to execute repetitive tasks, directly improving the efficiency of processes and reducing work times.
 - **Power BI reports generation:** Generation of dashboards in Power BI through the solutions created in Excel, visualizing a great amount of information in graphs and cards, allowing a more strategic decision making.  
 <br/>
@@ -37,7 +37,7 @@ _____________________________________________________________________
   <div><em>(Oct 2019 - Dec 2019)</em></div>
 </div>
 <div style="margin-left: 10px;"><em>UPS, Alajuela</em></div>
-
+<br/>
 - **Development of automated solutions:** Development and design of advanced macros in programs such as Excel and Access using Visual Basic, to optimize internal processes and increase operational efficiency.
 - **Technical Support:** I provided technical assistance to end users, solving doubts and problems related to various computer applications, from computer hardware to office software such as Microsoft Office applications.
 
@@ -81,10 +81,10 @@ _____________________________________________________________________
 ## Certifications & Courses
 _____________________________________________________________________
 
-**Six Sigma Yellow Belt (SSYB)** , *(2024)*         | ![SSYB](/assets/img/sigma-icon-r.png) <br/>
-**Scrum Fundamentals Certified (SFC)**, *(2020)*    | ![SFC](/assets/img/scrum-icon-r.png) <br/>
-**PCAP: Programming Essentials in Python**, *(2019)*| ![PCAP](/assets/img/python-icon-r.png) <br/>
-**Business Soft Skills Development**, *(2019)* <br/>
+**AZ-900** | **Six Sigma Yellow Belt (SSYB)** , *(2024)*          | ![SSYB](/assets/img/sigma-icon-r.png) <br/>
+**AZ-900** | **Scrum Fundamentals Certified (SFC)**, *(2020)*     | ![SFC](/assets/img/scrum-icon-r.png) <br/>
+**AZ-900** | **PCAP: Programming Essentials in Python**, *(2019)* | ![PCAP](/assets/img/python-icon-r.png) <br/>
+**AZ-900** | **Business Soft Skills Development**, *(2019)* <br/>
 
 
 <br/>
