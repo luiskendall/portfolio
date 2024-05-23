@@ -65,7 +65,7 @@ _____________________________________________________________________
 <br/>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div><strong>Medium Technician, Software Development Computing</strong></div>
+  <div><strong>Technical Degree, Software Development Computing</strong></div>
   <div><em>(Jan 2017 - Dec 2019)</em></div>
 </div>
 <div style="margin-left: 10px;"><em>Colegio Técnico Profesional de Carrizal, Alajuela</em></div>
