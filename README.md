@@ -38,8 +38,8 @@ _____________________________________________________________________
 <div style="margin-left: 10px;"><em>Municipalidad de Alajuela, Alajuela</em></div>
 <br/>
 
-- **Process automation:** Development of automated solutions in Excel using Visual Basic for Applications (VBA) to execute repetitive tasks, directly improving the efficiency of processes and reducing work times.
-- **Power BI reports generation:** Generation of dashboards in Power BI through the solutions created in Excel, visualizing a great amount of information in graphs and cards, allowing a more strategic decision making.  
+- **Process automation:** Developed solutions in Microsoft Excel using Visual Basic for Applications (VBA) to automate tasks and filter and send more than 4,000 emails in 3 minutes, increasing operational efficiency by 130%, optimizing time by 85%, and reducing manual errors by 90%.
+- **Power BI report generation:** Created and designed customized dashboards using Power BI, providing a clear visualization of important data, which improved strategic decision-making accuracy by 70%.
 <br/>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -49,8 +49,9 @@ _____________________________________________________________________
 <div style="margin-left: 10px;"><em>UPS, Alajuela</em></div>
 <br/>
 
-- **Development of automated solutions:** Development and design of advanced macros in programs such as Excel and Access using Visual Basic, to optimize internal processes and increase operational efficiency.
-- **Technical Support:** I provided technical assistance to end users, solving doubts and problems related to various computer applications, from computer hardware to office software such as Microsoft Office applications.
+- **Development of automated solutions:** Development and design of advanced macros in programs such as Excel and Access using Visual Basic, optimizing internal processes, and increasing operational efficiency.
+- **Technical Support:** I provided technical assistance to end users, resolving questions and problems related to computer hardware and software applications.
+-	**Introduction to RPA:** I acquired basic knowledge of the UiPath platform, learning the basic functions of creating and executing automated processes.
 
 
 <br/>
