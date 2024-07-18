@@ -50,9 +50,9 @@ _____________________________________________________________________
 <div style="margin-left: 10px;"><em>UPS, Alajuela</em></div>
 <br/>
 
-- **Development of automated solutions:** Development and design of advanced macros in programs such as Excel and Access using Visual Basic, optimizing internal processes, and increasing operational efficiency.
-- **Technical Support:** I provided technical assistance to end users, resolving questions and problems related to computer hardware and software applications.
--	**Introduction to RPA:** I acquired basic knowledge of the UiPath platform, learning the basic functions of creating and executing automated processes.
+- **Development of automated solutions:** Development and design of advanced macros in programs such as Excel and Access using Visual Basic, optimizing internal processes, and increasing operational efficiency by 40%.
+- **Technical Support:** Provided technical assistance to end users, resolving questions and problems related to computer hardware and software applications.
+-	**Introduction to RPA:** Acquired basic knowledge of the UiPath platform, learning the basic functions of creating and executing automated processes.
 
 
 <br/>
