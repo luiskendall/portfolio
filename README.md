@@ -38,7 +38,7 @@ _____________________________________________________________________
 <div style="margin-left: 10px;"><em>Municipalidad de Alajuela, Alajuela</em></div>
 <br/>
 
-- **Process automation:** Developed solutions in Microsoft Excel using Visual Basic for Applications (VBA) to automate tasks and filter and send more than 4,000 emails in 3 minutes, increasing operational efficiency by 130%, optimizing time by 85%, and reducing manual errors by 90%.
+- **Process automation:** Developed solutions in Microsoft Excel using Visual Basic for Applications (VBA) to automate tasks and processes, such as filtering and sending more than 4,000 emails in 3 minutes, increasing operational efficiency by 130%, optimizing time by 85%, and reducing manual errors by 90%.
 - **Power BI report generation:** Created and designed customized dashboards using Power BI, providing a clear visualization of important data, which improved strategic decision-making accuracy by 70%.
 <br/>
 <br/>
