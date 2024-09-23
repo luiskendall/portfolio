@@ -32,20 +32,21 @@ _____________________________________________________________________
 ## Work Experience
 _____________________________________________________________________
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div><strong>Software Development, University Community Work</strong></div>
-  <div><em>(Mar 2024 - Apr 2024)</em></div>
+  <div><strong>Software Development, University Internship</strong></div>
+  <div><em>(Jan 2024 - May 2024)</em></div>
 </div>
 <div style="margin-left: 10px;"><em>Municipalidad de Alajuela, Alajuela</em></div>
 <br/>
 
 - **Process automation:** Developed solutions in Microsoft Excel using Visual Basic for Applications (VBA) to automate tasks and processes, such as filtering and sending more than 4,000 emails in 3 minutes, increasing operational efficiency by 130%, optimizing time by 85%, and reducing manual errors by 90%.
 - **Power BI report generation:** Created and designed customized dashboards using Power BI, providing a clear visualization of important data, which improved strategic decision-making accuracy by 70%.
+- **Cross-team collaboration:** Teamwork with various departments to identify needs and design solutions, promoting effective communication to achieve common objectives.
 <br/>
 <br/>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div><strong>IT Internship</strong></div>
-  <div><em>(Oct 2019 - Dec 2019)</em></div>
+  <div><em>(Sep 2019 - Dec 2019)</em></div>
 </div>
 <div style="margin-left: 10px;"><em>UPS, Alajuela</em></div>
 <br/>
@@ -53,7 +54,7 @@ _____________________________________________________________________
 - **Development of automated solutions:** Development and design of advanced macros in programs such as Excel and Access using Visual Basic, optimizing internal processes, and increasing operational efficiency by 40%.
 - **Technical Support:** Provided technical assistance to end users, resolving questions and problems related to computer hardware and software applications.
 -	**Introduction to RPA:** Acquired basic knowledge of the UiPath platform, learning the basic functions of creating and executing automated processes.
-
+-	**Requirements gathering:** Communicated with company personnel to capture and analyze process requirements, which enabled the development team to deliver solutions that improved process efficiency by 20% and customer satisfaction by 30%
 
 <br/>
 
