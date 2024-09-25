@@ -112,7 +112,7 @@ _____________________________________________________________________
 - ITIL
 
 **Languages:**
-- **English:** B2+ (Professional working proficiency)
+- **English:** B2+
 - **Spanish:** Native
 
 **Soft Skills:**
