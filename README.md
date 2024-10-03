@@ -45,7 +45,7 @@ _____________________________________________________________________
 <br/>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div><strong>IT Internship</strong></div>
+  <div><strong>RPA Developer</strong></div>
   <div><em>(Sep 2019 - Dec 2019)</em></div>
 </div>
 <div style="margin-left: 10px;"><em>UPS, Alajuela</em></div>
