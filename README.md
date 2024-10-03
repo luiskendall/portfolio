@@ -32,7 +32,7 @@ _____________________________________________________________________
 ## Work Experience
 _____________________________________________________________________
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div><strong>Software Development, University Internship</strong></div>
+  <div><strong>Software Developer, University Internship</strong></div>
   <div><em>(Jan 2024 - May 2024)</em></div>
 </div>
 <div style="margin-left: 10px;"><em>Municipalidad de Alajuela, Alajuela</em></div>
