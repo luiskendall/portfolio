@@ -7,14 +7,14 @@
 </div>
 <div style="display: flex; align-items: center;">
   <img src="assets/img/linkedin-icon.png" alt="LinkedIn Icon" style="width: 70px; height: 70px; vertical-align: middle;">
-  <span style="margin-left: 10px;"><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/luis-kendall-segura-paniagua/">linkedin.com/in/luis-kendall-segura-paniagua</a></span>
+  <span style="margin-left: 10px;"><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/luiskensp/">linkedin.com/in/luiskensp</a></span>
 </div>
 
 <br/>
 
 ## About me
 _____________________________________________________________________
-I am a young professional passionate about technology, always looking for new opportunities to learn and grow. I have experience in different IT areas, such as programming, databases, technical support, etc. I stand out for my ability to solve problems in a critical and creative way.
+I'm a Software Engineer passionate about technology, always looking for new opportunities to learn and grow. I have experience in different IT areas, such as programming, databases, technical support, etc. I stand out for my ability to solve problems in a critical and creative way.
 
 On the other hand, in my free time I like to play video games, play sports especially Basketball, learn new skills, and drink coffee.
 
@@ -61,7 +61,7 @@ _____________________________________________________________________
 ## Education
 _____________________________________________________________________
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div><strong>Bachelor's Degree, Computer Systems Engineering</strong></div>
+  <div><strong> Top GPA - Bachelor's Degree, Computer Systems Engineering</strong></div>
   <div><em>(Jan 2020 - Dec 2023)</em></div>
 </div>
 <div style="margin-left: 10px;"><em>Universidad Fidélitas, Heredia</em></div>
