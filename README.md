@@ -62,7 +62,7 @@ _____________________________________________________________________
 _____________________________________________________________________
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div><strong> Top GPA - Bachelor's Degree, Computer Systems Engineering</strong></div>
-  <div><em>(Jan 2020 - Dec 2023)</em></div>
+  <div><em>(Jan 2020 - Oct 2024)</em></div>
 </div>
 <div style="margin-left: 10px;"><em>Universidad Fidélitas, Heredia</em></div>
 <br/>
