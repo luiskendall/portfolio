@@ -14,9 +14,11 @@
 
 ## About me
 _____________________________________________________________________
-I'm a Software Engineer passionate about technology, always looking for new opportunities to learn and grow. I have experience in different IT areas, such as programming, databases, technical support, etc. I stand out for my ability to solve problems in a critical and creative way.
+I'm a Software Engineer passionate about technology and innovation. I have experience across various computing fields, including software development, relational and non-relational database management, Version Control Systems and Agile methodologies. I help companies solve complex problems with technological solutions, increasing process efficiency and driving innovation to achieve strategic objectives.
 
-On the other hand, in my free time I like to play video games, play sports especially Basketball, learn new skills, and drink coffee.
+Graduated as the Best GPA student in the Bachelor's Degree in Computer Systems Engineering from Universidad Fidélitas, I have a strong foundation in software development principles and methodologies, which has equipped me with valuable problem-solving and critical thinking skills.
+
+Beyond my professional interests, I enjoy exploring new skills, playing video games, and staying active through sports especially basketball and drink coffee.
 
 
 <br/>
