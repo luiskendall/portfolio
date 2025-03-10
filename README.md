@@ -54,9 +54,9 @@ _____________________________________________________________________
 <br/>
 
 - **Development of automated solutions:** Development and design of advanced macros in programs such as Excel and Access using Visual Basic, optimizing internal processes, and increasing operational efficiency by 40%.
-- **Technical Support:** Provided technical assistance to end users, resolving questions and problems related to computer hardware and software applications.
+- **Technical Support:** Provided technical support to 75+ employees, achieving a 98% satisfaction rate and contributing to a 25% increase in team productivity through efficient resolution of hardware and software issues.
 -	**Introduction to RPA:** Acquired basic knowledge of the UiPath platform, learning the basic functions of creating and executing automated processes.
--	**Requirements gathering:** Communicated with company personnel to capture and analyze process requirements, which enabled the development team to deliver solutions that improved process efficiency by 20% and customer satisfaction by 30%
+-	**Requirements gathering:** Gathered business requirements, helping deliver solutions that boosted efficiency (20%) and customer satisfaction (30%).
 
 <br/>
 
