@@ -42,7 +42,7 @@ _____________________________________________________________________
 
 - **Process automation:** Developed solutions in Microsoft Excel using Visual Basic for Applications (VBA) to automate tasks and processes, such as filtering and sending more than 4,000 emails in 3 minutes, increasing operational efficiency by 130%, optimizing time by 85%, and reducing manual errors by 90%.
 - **Power BI report generation:** Created and designed customized dashboards using Power BI, providing a clear visualization of important data, which improved strategic decision-making accuracy by 70%.
-- **Cross-team collaboration:** Teamwork with various departments to identify needs and design solutions, promoting effective communication to achieve common objectives.
+- **Cross-team collaboration:** Collaborated with multiple departments to identify needs and design tailored solutions, ensuring clear communication and alignment toward shared goals.
 <br/>
 <br/>
 
