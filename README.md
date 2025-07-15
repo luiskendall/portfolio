@@ -63,8 +63,8 @@ _____________________________________________________________________
 _____________________________________________________________________
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
-    <strong>Bachelor's Degree, Computer Systems Engineering</strong><br>
-    <span style="margin-top: 5px; display: inline-block;">Highest GPA (96.71/100)</span>
+    <strong>Bachelor's Degree, Computer Systems Engineering</strong>
+    <div style="margin-top: 8px;">Highest GPA (96.71/100)</div>
   </div>
   <div><em>(Jan 2020 - Oct 2024)</em></div>
 </div>
@@ -132,6 +132,7 @@ _____________________________________________________________________
 ## Certifications & Courses
 _____________________________________________________________________
 
+*Microsoft and LinkedIn* | **Microsoft Azure AI Essentials** <br/> *(2024)*                | ![SSYB](/assets/img/microsoft-icon.png) <br/>
 *6sigmastudy* | **Six Sigma Yellow Belt (SSYB)** <br/> *(2024)*                | ![SSYB](/assets/img/sigma-icon-r.png) <br/>
 *SCRUMstudy* | **Scrum Fundamentals Certified (SFC)** <br/> *(2020)*           | ![SFC](/assets/img/scrum-icon-r.png) <br/>
 *Python Institute* | **PCAP: Programming Essentials in Python** <br/> *(2019)* | ![PCAP](/assets/img/python-icon-r.png) <br/>
