@@ -66,14 +66,14 @@ _____________________________________________________________________
   </div>
   <div><em>(Jan 2020 - Oct 2024)</em></div>
 </div>
-<div style="margin-left: 10px; margin-top: 8px;"><em>Universidad Fidélitas, Heredia</em></div>
+<div style="margin-top: 8px;"><em>Universidad Fidélitas, Heredia</em></div>
 <br/>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div><strong>Technical Degree, Software Development Computing</strong></div>
   <div><em>(Jan 2017 - Dec 2019)</em></div>
 </div>
-<div style="margin-left: 10px; margin-top: 8px;"><em>Colegio Técnico Profesional de Carrizal, Alajuela</em></div>
+<div style="margin-top: 8px;"><em>Colegio Técnico Profesional de Carrizal, Alajuela</em></div>
 
 <br/>
 
