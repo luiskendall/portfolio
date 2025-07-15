@@ -57,6 +57,8 @@ _____________________________________________________________________
 - **Technical Support:** Provided technical support to 75+ employees, achieving a 98% satisfaction rate and contributing to a 25% increase in team productivity through efficient issue resolution.
 -	**Requirements gathering:** Collected and analyzed business requirements to help deliver solutions that improved process efficiency by 20% and customer satisfaction by 30%.
 -	**Introduction to RPA with UiPath:** Acquired hands-on experience with the UiPath platform, learning the basic functions of creating and executing automated processes.
+
+
 <br/>
 
 ## Education
@@ -67,7 +69,7 @@ _____________________________________________________________________
   </div>
   <div><em>(Jan 2020 - Oct 2024)</em></div>
 </div>
-<div style="margin-left: 10px;"><em>Universidad Fidélitas, Heredia</em></div>
+<span style="margin-left: 10px;"><em>Universidad Fidélitas, Heredia</em></span>
 <br/>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -131,7 +133,7 @@ _____________________________________________________________________
 ## Certifications & Courses
 _____________________________________________________________________
 
-*Microsoft and LinkedIn* | **Microsoft Azure AI Essentials** <br/>                | ![SSYB](/assets/img/microsoft-icon.png) <br/>
+*Microsoft and LinkedIn* | **Microsoft Azure AI Essentials** <br/>    | ![SSYB](/assets/img/microsoft-icon.png) <br/>
 *6sigmastudy* | **Six Sigma Yellow Belt (SSYB)** <br/>                | ![SSYB](/assets/img/sigma-icon-r.png) <br/>
 *SCRUMstudy* | **Scrum Fundamentals Certified (SFC)** <br/>           | ![SFC](/assets/img/scrum-icon-r.png) <br/>
 *Python Institute* | **PCAP: Programming Essentials in Python** <br/> | ![PCAP](/assets/img/python-icon-r.png) <br/>
