@@ -40,9 +40,9 @@ _____________________________________________________________________
 <div style="margin-left: 10px;"><em>Municipalidad de Alajuela, Alajuela</em></div>
 <br/>
 
-- **Process automation:** Developed solutions in Microsoft Excel using Visual Basic for Applications (VBA) to automate tasks and processes, such as filtering and sending more than 4,000 emails in 3 minutes, increasing operational efficiency by 130%, optimizing time by 85%, and reducing manual errors by 90%.
-- **Power BI report generation:** Created and designed customized dashboards using Power BI, providing a clear visualization of important data, which improved strategic decision-making accuracy by 70%.
-- **Cross-team collaboration:** Collaborated with multiple departments to identify needs and design tailored solutions, ensuring clear communication and alignment toward shared goals.
+- **Process automation:** Developed solutions in Microsoft Excel using Visual Basic for Applications (VBA) to automate tasks and processes, such as filtering and sending over 4,000 emails in 3 minutes, increasing operational efficiency by 130%, optimizing time by 85%, and reducing manual errors by 90%.
+- **Strategic Data Analytics:** Led the improvement of strategic decision-making accuracy by 70% by providing clear and actionable data visualizations through customized Power BI dashboards.
+- **Cross-Functional Collaboration & Solution Design:**  Collaborated with multiple departments to identify needs and design tailored solutions, ensuring clear communication and alignment toward shared goals.
 <br/>
 <br/>
 
@@ -53,17 +53,17 @@ _____________________________________________________________________
 <div style="margin-left: 10px;"><em>UPS, Alajuela</em></div>
 <br/>
 
-- **Development of automated solutions:** Development and design of advanced macros in programs such as Excel and Access using Visual Basic, optimizing internal processes, and increasing operational efficiency by 40%.
-- **Technical Support:** Provided technical support to 75+ employees, achieving a 98% satisfaction rate and contributing to a 25% increase in team productivity through efficient resolution of hardware and software issues.
--	**Introduction to RPA:** Acquired basic knowledge of the UiPath platform, learning the basic functions of creating and executing automated processes.
--	**Requirements gathering:** Gathered business requirements, helping deliver solutions that boosted efficiency (20%) and customer satisfaction (30%).
-
+- **Development of automated solutions:** Designed and implemented advanced macros in Excel and Access using Visual Basic, optimizing internal processes and increasing operational efficiency by 40%.
+- **Technical Support:** Provided technical support to 75+ employees, achieving a 98% satisfaction rate and contributing to a 25% increase in team productivity through efficient issue resolution.
+-	**Requirements gathering:** Collected and analyzed business requirements to help deliver solutions that improved process efficiency by 20% and customer satisfaction by 30%.
+-	**Introduction to RPA with UiPath:** Acquired hands-on experience with the UiPath platform, learning the basic functions of creating and executing automated processes.
 <br/>
 
 ## Education
 _____________________________________________________________________
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div><strong> Top GPA - Bachelor's Degree, Computer Systems Engineering</strong></div>
+  <div><strong>Bachelor's Degree, Computer Systems Engineering</strong></div>
+  <div>Highest GPA (96.71/100)</div>
   <div><em>(Jan 2020 - Oct 2024)</em></div>
 </div>
 <div style="margin-left: 10px;"><em>Universidad Fidélitas, Heredia</em></div>
