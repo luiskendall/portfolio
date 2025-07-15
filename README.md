@@ -20,14 +20,12 @@ Graduated as the Best GPA student in the Bachelor's Degree in Computer Systems E
 
 Beyond my professional interests, I enjoy exploring new skills, playing video games, and staying active through sports especially basketball and drink coffee.
 
-
 <br/>
 
 ## Projects
 _____________________________________________________________________
 
 💻 [GitHub Repositories](https://github.com/luiskendall)
-
 
 <br/>
 
@@ -58,7 +56,6 @@ _____________________________________________________________________
 -	**Requirements gathering:** Collected and analyzed business requirements to help deliver solutions that improved process efficiency by 20% and customer satisfaction by 30%.
 -	**Introduction to RPA with UiPath:** Acquired hands-on experience with the UiPath platform, learning the basic functions of creating and executing automated processes.
 
-
 <br/>
 
 ## Education
@@ -69,15 +66,14 @@ _____________________________________________________________________
   </div>
   <div><em>(Jan 2020 - Oct 2024)</em></div>
 </div>
-<span style="margin-left: 10px;"><em>Universidad Fidélitas, Heredia</em></span>
+<div style="margin-left: 10px; margin-top: 8px;"><em>Universidad Fidélitas, Heredia</em></div>
 <br/>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div><strong>Technical Degree, Software Development Computing</strong></div>
   <div><em>(Jan 2017 - Dec 2019)</em></div>
 </div>
-<div style="margin-left: 10px;"><em>Colegio Técnico Profesional de Carrizal, Alajuela</em></div>
-
+<div style="margin-left: 10px; margin-top: 8px;"><em>Colegio Técnico Profesional de Carrizal, Alajuela</em></div>
 
 <br/>
 
@@ -127,7 +123,6 @@ _____________________________________________________________________
 - Effective Communication
 - Adaptability
 
-
 <br/>
 
 ## Certifications & Courses
@@ -138,7 +133,6 @@ _____________________________________________________________________
 *SCRUMstudy* | **Scrum Fundamentals Certified (SFC)** <br/>           | ![SFC](/assets/img/scrum-icon-r.png) <br/>
 *Python Institute* | **PCAP: Programming Essentials in Python** <br/> | ![PCAP](/assets/img/python-icon-r.png) <br/>
 *UNA* | **Business Soft Skills Development** <br/> <br/>
-
 
 <br/>
 
