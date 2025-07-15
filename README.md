@@ -62,8 +62,10 @@ _____________________________________________________________________
 ## Education
 _____________________________________________________________________
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div><strong>Bachelor's Degree, Computer Systems Engineering</strong>
-  Highest GPA (96.71/100)</div>
+  <div>
+    <strong>Bachelor's Degree, Computer Systems Engineering</strong><br>
+    <span style="margin-top: 5px; display: inline-block;">Highest GPA (96.71/100)</span>
+  </div>
   <div><em>(Jan 2020 - Oct 2024)</em></div>
 </div>
 <div style="margin-left: 10px;"><em>Universidad Fidélitas, Heredia</em></div>
