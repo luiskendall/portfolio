@@ -18,7 +18,7 @@ I'm a Software Engineer passionate about technology and innovation. I have exper
 
 Graduated with the highest GPA in the Bachelor's Degree in Computer Systems Engineering from Universidad Fidélitas. I have a strong foundation in software development principles and methodologies, which has equipped me with valuable problem-solving and critical thinking skills.
 
-Beyond my professional interests, I enjoy exploring new skills, playing video games, and staying active through sports especially basketball and drink coffee.
+Beyond my professional interests; I enjoy exploring new skills, playing video games, drink coffee, and staying active through sports especially basketball.
 
 <br/>
 
