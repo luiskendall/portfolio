@@ -14,9 +14,9 @@
 
 ## About me
 _____________________________________________________________________
-I'm a Software Engineer passionate about technology and innovation. I have experience across various computing fields, including software development, relational and non-relational database management, Version Control Systems and Agile methodologies. I help companies solve complex problems with technological solutions, increasing process efficiency and driving innovation to achieve strategic objectives.
+I'm a Software Engineer passionate about technology and innovation. I have experience across various computing fields, including software development, cloud services such as AWS, relational and non-relational databases. I help companies solve complex problems with technological solutions, increasing process efficiency and driving innovation to achieve strategic objectives.
 
-Graduated as the Best GPA student in the Bachelor's Degree in Computer Systems Engineering from Universidad Fidélitas, I have a strong foundation in software development principles and methodologies, which has equipped me with valuable problem-solving and critical thinking skills.
+Graduated with the highest GPA student in the Bachelor's Degree in Computer Systems Engineering from Universidad Fidélitas, I have a strong foundation in software development principles and methodologies, which has equipped me with valuable problem-solving and critical thinking skills.
 
 Beyond my professional interests, I enjoy exploring new skills, playing video games, and staying active through sports especially basketball and drink coffee.
 
@@ -32,14 +32,15 @@ _____________________________________________________________________
 ## Work Experience
 _____________________________________________________________________
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div><strong>Software Developer, University Internship</strong></div>
+  <div><strong>Software Developer</strong></div>
   <div><em>(Jan 2024 - May 2024)</em></div>
 </div>
 <div style="margin-left: 10px;"><em>Municipalidad de Alajuela, Alajuela</em></div>
 <br/>
 
-- **Process automation:** Developed solutions in Microsoft Excel using Visual Basic for Applications (VBA) to automate tasks and processes, such as filtering and sending over 4,000 emails in 3 minutes, increasing operational efficiency by 130%, optimizing time by 85%, and reducing manual errors by 90%.
+- **Process automation:** Developed solutions in Microsoft Excel using Visual Basic for Applications (VBA) to streamline repetitive and manual processes, achieving more than a 90% enhancement in operational efficiency and 98% reduction in time spent.
 - **Strategic Data Analytics:** Led the improvement of strategic decision-making accuracy by 70% by providing clear and actionable data visualizations through customized Power BI dashboards.
+- **Email Workflow Automation:** Created an Excel macro that automated the filtering and distribution of more than 4,000 emails in less than 3 minutes, reducing manual errors by 100% and saving the team over 12 hours per week.
 - **Cross-Functional Collaboration & Solution Design:**  Collaborated with multiple departments to identify needs and design tailored solutions, ensuring clear communication and alignment toward shared goals.
 <br/>
 <br/>
@@ -103,6 +104,7 @@ _____________________________________________________________________
 - Firebase
 
 **Tools & Technologies:**
+- AWS
 - Git & GitHub
 - Bitbucket
 - Agile
@@ -128,6 +130,7 @@ _____________________________________________________________________
 ## Certifications & Courses
 _____________________________________________________________________
 
+*AWS* | **AWS Certified Cloud Practitioner** <br/>    | ![SSYB](/assets/img/aws-icon.png) <br/>
 *Microsoft and LinkedIn* | **Microsoft Azure AI Essentials** <br/>    | ![SSYB](/assets/img/microsoft-icon.png) <br/>
 *6sigmastudy* | **Six Sigma Yellow Belt (SSYB)** <br/>                | ![SSYB](/assets/img/sigma-icon-r.png) <br/>
 *SCRUMstudy* | **Scrum Fundamentals Certified (SFC)** <br/>           | ![SFC](/assets/img/scrum-icon-r.png) <br/>
@@ -139,8 +142,14 @@ _____________________________________________________________________
 ## Awards & Extracurricular Activities
 _____________________________________________________________________
 
-### Second place - EXPO Ingeniería 2018
-*Colegio Técnico Profesional de Carrizal, Alajuela* <br/>
+### Highest GPA – B.Sc. in Computer Systems Engineering
+*Universidad Fidélitas* <br/>
 
-Second place at the EXPO Ingeniería 2018 fair at Colegio Técnico Profesional de Carrizal,
-developing a prototype for a mobile application in Android Studio
+Graduated with the highest GPA (96.71/100) in Bachelor's Degree Computer Systems Engineering
+
+
+### Second place - EXPO Ingeniería 2018
+*Colegio Técnico Profesional de Carrizal* <br/>
+
+Second place at the EXPO Ingeniería 2018 fair at C.T.P. Carrizal, developing a prototype for a mobile application in Android Studio. 
+The application enabled users to browse computer components (such as CPU, motherboards, GPU, etc.) through filters, and find nearby stores with available inventory using an integrated Google Maps view.
