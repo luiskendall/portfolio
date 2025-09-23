@@ -16,7 +16,7 @@
 _____________________________________________________________________
 I'm a Software Engineer passionate about technology and innovation. I have experience across various computing fields, including software development, cloud services such as AWS, relational and non-relational databases. I help companies solve complex problems with technological solutions, increasing process efficiency and driving innovation to achieve strategic objectives.
 
-Graduated with the highest GPA student in the Bachelor's Degree in Computer Systems Engineering from Universidad Fidélitas, I have a strong foundation in software development principles and methodologies, which has equipped me with valuable problem-solving and critical thinking skills.
+Graduated with the highest GPA in the Bachelor's Degree in Computer Systems Engineering from Universidad Fidélitas, I have a strong foundation in software development principles and methodologies, which has equipped me with valuable problem-solving and critical thinking skills.
 
 Beyond my professional interests, I enjoy exploring new skills, playing video games, and staying active through sports especially basketball and drink coffee.
 
