@@ -105,6 +105,7 @@ _____________________________________________________________________
 
 **Tools & Technologies:**
 - AWS
+- Oracle Cloud Infrastructure (OCI)
 - Git & GitHub
 - Bitbucket
 - Agile
@@ -130,6 +131,7 @@ _____________________________________________________________________
 ## Certifications & Courses
 _____________________________________________________________________
 
+*Oracle* | **OCI Certified Foundations Associate** <br/>    | ![SSYB](/assets/img/oracle.png) <br/>
 *AWS* | **AWS Certified Cloud Practitioner** <br/>    | ![SSYB](/assets/img/aws-icon.png) <br/>
 *Microsoft and LinkedIn* | **Microsoft Azure AI Essentials** <br/>    | ![SSYB](/assets/img/microsoft-icon.png) <br/>
 *6sigmastudy* | **Six Sigma Yellow Belt (SSYB)** <br/>                | ![SSYB](/assets/img/sigma-icon-r.png) <br/>
