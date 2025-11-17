@@ -14,7 +14,7 @@
 
 ## About me
 _____________________________________________________________________
-I'm a Software Engineer passionate about technology and innovation. I have experience across various computing fields, including software development, cloud services such as AWS, relational and non-relational databases. I help companies solve complex problems with technological solutions, increasing process efficiency and driving innovation to achieve strategic objectives.
+I’m a results-driven Software Engineer with experience in automation, data-driven solutions, and cloud technologies (Azure & AWS). I’ve delivered improvements that reduced process times by over 90% and eliminated manual errors across multiple departments. I focus on understanding business needs and building efficient, scalable solutions that create measurable value.
 
 Graduated with the highest GPA in the Bachelor's Degree in Computer Systems Engineering from Universidad Fidélitas. I have a strong foundation in software development principles and methodologies, which has equipped me with valuable problem-solving and critical thinking skills.
 
@@ -104,6 +104,7 @@ _____________________________________________________________________
 - Firebase
 
 **Tools & Technologies:**
+- Azure
 - AWS
 - Oracle Cloud Infrastructure (OCI)
 - Git & GitHub
@@ -131,6 +132,7 @@ _____________________________________________________________________
 ## Certifications & Courses
 _____________________________________________________________________
 
+*Microsoft Azure* | **Microsoft Azure Fundamentals AZ-900** <br/>    | ![SSYB](/assets/img/microsoft-azure.png) <br/>
 *Oracle* | **OCI Certified Foundations Associate** <br/>    | ![SSYB](/assets/img/oracle-r.png) <br/>
 *AWS* | **AWS Certified Cloud Practitioner** <br/>    | ![SSYB](/assets/img/aws-icon.png) <br/>
 *Microsoft and LinkedIn* | **Microsoft Azure AI Essentials** <br/>    | ![SSYB](/assets/img/microsoft-icon.png) <br/>
