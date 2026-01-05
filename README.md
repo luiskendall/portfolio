@@ -138,7 +138,7 @@ _____________________________________________________________________
 *Microsoft and LinkedIn* | **Microsoft Azure AI Essentials** <br/>    | ![SSYB](/assets/img/microsoft-icon.png) <br/>
 *6sigmastudy* | **Six Sigma Yellow Belt (SSYB)** <br/>                | ![SSYB](/assets/img/sigma-icon-r.png) <br/>
 *SCRUMstudy* | **Scrum Fundamentals Certified (SFC)** <br/>           | ![SFC](/assets/img/scrum-icon-r.png) <br/>
-*Python Institute* | **PCAP: Programming Essentials in Python** <br/> | ![PCAP](/assets/img/python-icon-r.png) <br/>
+*Cisco Networking Academy* | **PCAP: Programming Essentials in Python** <br/> | ![PCAP](/assets/img/python-icon-r.png) <br/>
 *UNA* | **Business Soft Skills Development** <br/> <br/>
 
 <br/>
