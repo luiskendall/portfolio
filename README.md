@@ -40,7 +40,7 @@ _____________________________________________________________________
 
 - **Process automation:** Developed solutions in Microsoft Excel using Visual Basic for Applications (VBA) to streamline repetitive and manual processes, achieving more than a 90% enhancement in operational efficiency and 98% reduction in time spent.
 - **Strategic Data Analytics:** Led the improvement of strategic decision-making accuracy by 70% by providing clear and actionable data visualizations through customized Power BI dashboards.
-- **Email Workflow Automation:** Created an Excel macro that automated the filtering and distribution of more than 4,000 emails in less than 3 minutes, reducing manual errors by 100% and saving the team over 12 hours per week.
+- **Email Workflow Automation:** Created an Excel macro that automated the filtering and distribution of more than 4,000 emails (Outlook) in less than 3 minutes, reducing manual errors by 100% and saving the team over 12 hours per week.
 - **Cross-Functional Collaboration & Solution Design:**  Collaborated with multiple departments to identify needs and design tailored solutions, ensuring clear communication and alignment toward shared goals.
 <br/>
 <br/>
@@ -122,6 +122,7 @@ _____________________________________________________________________
 **Soft Skills:**
 - Critical Thinking
 - Problem-Solving
+- Attention to Detail
 - Team Collaboration
 - Leadership
 - Effective Communication
