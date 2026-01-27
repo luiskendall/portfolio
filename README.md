@@ -32,7 +32,7 @@ _____________________________________________________________________
 ## Work Experience
 _____________________________________________________________________
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div><strong>Software Developer</strong></div>
+  <div><strong>Software Developer Intern</strong></div>
   <div><em>(Jan 2024 - May 2024)</em></div>
 </div>
 <div style="margin-left: 10px;"><em>Municipalidad de Alajuela, Alajuela</em></div>
@@ -46,7 +46,7 @@ _____________________________________________________________________
 <br/>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div><strong>RPA Developer</strong></div>
+  <div><strong>RPA Developer Intern</strong></div>
   <div><em>(Sep 2019 - Dec 2019)</em></div>
 </div>
 <div style="margin-left: 10px;"><em>UPS, Alajuela</em></div>
@@ -63,7 +63,7 @@ _____________________________________________________________________
 _____________________________________________________________________
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div><strong>Bachelor's Degree, Computer Systems Engineering</strong><br>
-    <span style="margin-top: 5px; display: inline-block;">Highest GPA (96.71/100)</span>
+    <span style="margin-top: 5px; display: inline-block;">Highest GPA in the program 4.0/4.0 (96.71/100 scale)</span>
   </div>
   <div><em>(Jan 2020 - Oct 2024)</em></div>
 </div>
@@ -150,7 +150,7 @@ _____________________________________________________________________
 ### Highest GPA – B.Sc. in Computer Systems Engineering
 *Universidad Fidélitas* <br/>
 
-Graduated with the highest GPA (96.71/100) in Bachelor's Degree Computer Systems Engineering
+Graduated with the highest GPA 4.0/4.0 (96.71/100) in the Bachelor's degree in Computer Systems Engineering
 
 
 ### Second place - EXPO Ingeniería 2018
