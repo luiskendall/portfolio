@@ -50,7 +50,6 @@ _____________________________________________________________________
 - **Email Workflow Automation:** Created an Excel macro that automated the filtering and distribution of more than 4,000 emails (Outlook) in less than 3 minutes, reducing manual errors by 100% and saving the team over 12 hours per week.
 - **Cross-Functional Collaboration & Solution Design:**  Collaborated with multiple departments to identify needs and design tailored solutions, ensuring clear communication and alignment toward shared goals.
 <br/>
-<br/>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div><strong>RPA Developer Intern</strong></div>
@@ -63,7 +62,6 @@ _____________________________________________________________________
 - **Technical Support:** Provided technical support to 75+ employees, achieving a 98% satisfaction rate and contributing to a 25% increase in team productivity through efficient issue resolution.
 -	**Requirements gathering:** Collected and analyzed business requirements to help deliver solutions that improved process efficiency by 20% and customer satisfaction by 30%.
 -	**Introduction to RPA with UiPath:** Acquired hands-on experience with the UiPath platform, learning the basic functions of creating and executing automated processes.
-
 <br/>
 
 ## Education
