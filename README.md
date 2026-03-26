@@ -43,6 +43,7 @@ _____________________________________________________________________
   <div><em>(Jan 2024 - May 2024)</em></div>
 </div>
 <div style="margin-left: 10px;"><em>Municipalidad de Alajuela, Alajuela</em></div>
+<br/>
 
 - **Process automation:** Developed solutions in Microsoft Excel using Visual Basic for Applications (VBA) to streamline repetitive and manual processes, achieving more than a 90% enhancement in operational efficiency and 98% reduction in time spent.
 - **Strategic Data Analytics:** Led the improvement of strategic decision-making accuracy by 70% by providing clear and actionable data visualizations through customized Power BI dashboards.
@@ -56,13 +57,14 @@ _____________________________________________________________________
   <div><em>(Sep 2019 - Dec 2019)</em></div>
 </div>
 <div style="margin-left: 10px;"><em>UPS, Alajuela</em></div>
+<br/>
 
 - **Development of automated solutions:** Designed and implemented advanced macros in Excel and Access using Visual Basic, optimizing internal processes and increasing operational efficiency by 40%.
 - **Technical Support:** Provided technical support to 75+ employees, achieving a 98% satisfaction rate and contributing to a 25% increase in team productivity through efficient issue resolution.
 -	**Requirements gathering:** Collected and analyzed business requirements to help deliver solutions that improved process efficiency by 20% and customer satisfaction by 30%.
 -	**Introduction to RPA with UiPath:** Acquired hands-on experience with the UiPath platform, learning the basic functions of creating and executing automated processes.
 <br/>
-
+<br/>
 
 ## Education
 _____________________________________________________________________
