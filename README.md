@@ -63,7 +63,7 @@ _____________________________________________________________________
 - **Technical Support:** Provided technical support to 75+ employees, achieving a 98% satisfaction rate and contributing to a 25% increase in team productivity through efficient issue resolution.
 -	**Requirements gathering:** Collected and analyzed business requirements to help deliver solutions that improved process efficiency by 20% and customer satisfaction by 30%.
 -	**Introduction to RPA with UiPath:** Acquired hands-on experience with the UiPath platform, learning the basic functions of creating and executing automated processes.
-<br/>
+
 <br/>
 
 ## Education
