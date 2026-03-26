@@ -32,6 +32,13 @@ _____________________________________________________________________
 ## Work Experience
 _____________________________________________________________________
 <div style="display: flex; justify-content: space-between; align-items: center;">
+  <div><strong>RPA BotOps Developer</strong></div>
+  <div><em>(Mar 2026 - Present)</em></div>
+</div>
+<div style="margin-left: 10px;"><em>Greenlight Consulting, Remote</em></div>
+<br/>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <div><strong>Software Developer Intern</strong></div>
   <div><em>(Jan 2024 - May 2024)</em></div>
 </div>
